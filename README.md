@@ -6,7 +6,6 @@
 ##  Introduction
 #### This project aims to analyze a dataset of Netflix titles using Power BI to uncover insights and visualize key findings. The dataset includes information such as title, genre, country, ratings, and more.
 
-
 <br/>
 
 ## Process
